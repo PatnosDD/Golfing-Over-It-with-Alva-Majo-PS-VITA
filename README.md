@@ -15,6 +15,6 @@ First, you might want to install the .VPK using VitaShell. Don't try to launch t
 - Put the game's folder(```../steamapps/common/Golfing Over It with Alva Majo```) inside the extracted folder(Should be Steam version)
 - Launch ``ApplyPatch.bat`` and wait(Will need from 15 to 25 minutes depending on the system).
 - Let it finish and there should be a .ZIP file named ``GolfingOverItVITAFILES.7z``.
-- Turn up VitaShell, connect your PS Vita to your PC and copy the contents of the .ZIP file```(Zip file should be around 110MB-125MB before unpacking)``` over to ``ux0:app/GOLF55555/``.
+- Turn up VitaShell, connect your PS Vita to your PC and copy the contents of the .7z file over to ``ux0:app/GOLF55555/``.
 - Click on "Replace the files in destination" when it asks you to.
 - Launch the game and have fun!
